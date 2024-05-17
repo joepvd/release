@@ -111,7 +111,7 @@ periodics:
         value: m5.xlarge
       - name: OSD_CLUSTER_VERSION
       - name: BRANCH
-        value: "4.1"
+        value: "4.16"
       - name: CLUSTER_TYPE
         value: osd-ephemeral
       - name: JOB_NAME_SAFE
@@ -2092,7 +2092,7 @@ periodics:
       - name: RELEASE_IMAGE_LATEST
       - name: CLUSTER_VARIANT
       - name: BRANCH
-        value: "4.1"
+        value: "4.16"
       - name: CLUSTER_TYPE
         value: aws
       - name: CONFIG_SPEC
